@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://osmosis.foundation/home/posts/</loc>
+    <lastmod>2016-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/home/projects/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/home/community/</loc>
+    <lastmod>2016-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/home/discuss/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/home/contact/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/blog/2016/11/21/osmosis_team/</loc>
+    <lastmod>2016-11-21T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/post/osmosis_team/</loc>
+    <lastmod>2016-11-21T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/blog/2016/11/20/ddmore_repo/</loc>
+    <lastmod>2016-11-20T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/post/ddmore_repo/</loc>
+    <lastmod>2016-11-20T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/community/osmosis_team/</loc>
+    <lastmod>2016-11-20T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/blog/2016/10/28/opensourceinphmx/</loc>
+    <lastmod>2016-10-28T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/post/opensourceinphmx/</loc>
+    <lastmod>2016-10-28T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/project/ddmore/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/project/mrgsolve/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/project/nlmixr/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/project/pkpdsim/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/home/about/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/tags/acop7/</loc>
+    <lastmod>2016-10-28T11:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/tags/advisory/</loc>
+    <lastmod>2016-11-21T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/tags/blog/</loc>
+    <lastmod>2016-11-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/blog/</loc>
+    <lastmod>2016-11-21T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/community/</loc>
+    <lastmod>2016-11-20T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/tags/ddmore/</loc>
+    <lastmod>2016-11-20T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/tags/estimation/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/home/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/tags/mrgsolve/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/tags/nlmixr/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/tags/opensource/</loc>
+    <lastmod>2016-10-28T11:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/</loc>
+    <lastmod>2016-11-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/tags/outreach/</loc>
+    <lastmod>2016-11-21T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/tags/pkpd/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/tags/pkpdsim/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/post/</loc>
+    <lastmod>2016-11-21T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/tags/r/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/tags/repository/</loc>
+    <lastmod>2016-11-20T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/tags/scientific/</loc>
+    <lastmod>2016-11-21T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/services/</loc>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/tags/simulation/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://osmosis.foundation/tags/team/</loc>
+    <lastmod>2016-11-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

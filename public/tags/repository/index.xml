@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Repository on OsMoSis</title>
+    <link>https://osmosis.foundation/tags/repository/index.xml</link>
+    <description>Recent content in Repository on OsMoSis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2017 - 2019, OsMoSis Foundation; all rights reserved.</copyright>
+    <atom:link href="https://osmosis.foundation/tags/repository/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DDMore Model Repository</title>
+      <link>https://osmosis.foundation/blog/2016/11/20/ddmore_repo/</link>
+      <pubDate>Sun, 20 Nov 2016 12:00:00 +0000</pubDate>
+      
+      <guid>https://osmosis.foundation/blog/2016/11/20/ddmore_repo/</guid>
+      <description>
+
+&lt;h2 id=&#34;access-to-curated-and-shared-knowledge&#34;&gt;Access to curated and shared knowledge&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;this post has been directly take from the ddmore model repository website&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;An open, publicly available, free-to-use Model Repository that is indexed, fully searchable, and supported by peer review.&lt;/p&gt;
+
+&lt;p&gt;The Model Repository enables display and search of key model features and elements via a structured and curated annotation system. The flexibility and power of the Model Repository is showcased by a range of &amp;ldquo;proof of concept&amp;rdquo; drug and disease models consisting of published pharmacokinetic (PK), pharmacodynamic (PD), PK-PD, physiologically-based PK (PBPK), statistical and systems biology models.&lt;/p&gt;
+
+&lt;p&gt;The DDMoRe Model Repository is built using the Pharmacometrics Markup Language (PharmML), and supports the Model Description Language (MDL). Together with DDMoRe&amp;rsquo;s unique Interoperability Framework, these tools facilitate the collaborative development of computational models. Users can submit their models in a number of formats, but to benefit from all of the model repository&amp;rsquo;s features you will need to use the PharmML representation.&lt;/p&gt;
+
+&lt;p&gt;The DDMoRe consortium has developed new state-of-the art models in key therapeutic areas including diabetes,oncology, CNS and infectious disease. These models are encoded in PharmML and MDL to facilitate seamless exchange between modelling languages, existing and new tools.&lt;/p&gt;
+
+&lt;p&gt;The Model Repository will be made available as a public instance, but will be portable and developed under existing GPL-compatible licenses, allowing integration of private or customized versions within organizations.
+Tutorials to support use and integration of the DDMoRe products is available.
+A private version of the Model Repository can be installed using the installation guide for the Model Repository and Fuseki Server available as downloads at the end of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DDMore Model Repository</title>
+      <link>https://osmosis.foundation/post/ddmore_repo/</link>
+      <pubDate>Sun, 20 Nov 2016 12:00:00 +0000</pubDate>
+      
+      <guid>https://osmosis.foundation/post/ddmore_repo/</guid>
+      <description>
+
+&lt;h2 id=&#34;access-to-curated-and-shared-knowledge&#34;&gt;Access to curated and shared knowledge&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;this post has been directly take from the ddmore model repository website&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;An open, publicly available, free-to-use Model Repository that is indexed, fully searchable, and supported by peer review.&lt;/p&gt;
+
+&lt;p&gt;The Model Repository enables display and search of key model features and elements via a structured and curated annotation system. The flexibility and power of the Model Repository is showcased by a range of &amp;ldquo;proof of concept&amp;rdquo; drug and disease models consisting of published pharmacokinetic (PK), pharmacodynamic (PD), PK-PD, physiologically-based PK (PBPK), statistical and systems biology models.&lt;/p&gt;
+
+&lt;p&gt;The DDMoRe Model Repository is built using the Pharmacometrics Markup Language (PharmML), and supports the Model Description Language (MDL). Together with DDMoRe&amp;rsquo;s unique Interoperability Framework, these tools facilitate the collaborative development of computational models. Users can submit their models in a number of formats, but to benefit from all of the model repository&amp;rsquo;s features you will need to use the PharmML representation.&lt;/p&gt;
+
+&lt;p&gt;The DDMoRe consortium has developed new state-of-the art models in key therapeutic areas including diabetes,oncology, CNS and infectious disease. These models are encoded in PharmML and MDL to facilitate seamless exchange between modelling languages, existing and new tools.&lt;/p&gt;
+
+&lt;p&gt;The Model Repository will be made available as a public instance, but will be portable and developed under existing GPL-compatible licenses, allowing integration of private or customized versions within organizations.
+Tutorials to support use and integration of the DDMoRe products is available.
+A private version of the Model Repository can be installed using the installation guide for the Model Repository and Fuseki Server available as downloads at the end of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

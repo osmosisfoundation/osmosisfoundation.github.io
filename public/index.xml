@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OsMoSis</title>
+    <link>https://osmosis.foundation/index.xml</link>
+    <description>Recent content on OsMoSis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2017 - 2019, OsMoSis Foundation; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 20 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://osmosis.foundation/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Blog</title>
+      <link>https://osmosis.foundation/home/posts/</link>
+      <pubDate>Sun, 20 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://osmosis.foundation/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://osmosis.foundation/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://osmosis.foundation/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community</title>
+      <link>https://osmosis.foundation/home/community/</link>
+      <pubDate>Mon, 21 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://osmosis.foundation/home/community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discuss</title>
+      <link>https://osmosis.foundation/home/discuss/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://osmosis.foundation/home/discuss/</guid>
+      <description>&lt;p&gt;Official &lt;a href=&#34;http://discuss.go-isop.org/&#34;&gt;discussion forum&lt;/a&gt; of the OsMoSiS Project&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://osmosis.foundation/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://osmosis.foundation/home/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OsMoSiS Team</title>
+      <link>https://osmosis.foundation/blog/2016/11/21/osmosis_team/</link>
+      <pubDate>Mon, 21 Nov 2016 12:00:00 +0000</pubDate>
+      
+      <guid>https://osmosis.foundation/blog/2016/11/21/osmosis_team/</guid>
+      <description>
+
+&lt;h2 id=&#34;meet-our-community&#34;&gt;Meet our Community&lt;/h2&gt;
+
+&lt;p&gt;OsMoSiS is entirely a community driven effort. The project originally came together from conversations between like-minded researchers and continues to expand as more people contribute tools, expertise, and research ideas. We welcome a global community of researchers, students, software developers, and various others working towards improving the world of quantitative clinical science. We welcome you to join us and help improve tools and practices available to researchers.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-to-join-our-community&#34;&gt;How to join our community&lt;/h2&gt;
+
+&lt;p&gt;If you have any project that you would like to be involved with, the best place for you to start with is the discussion board(&lt;a href=&#34;http://discuss.go-isop.org/&#34;&gt;http://discuss.go-isop.org/&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h2 id=&#34;contribute&#34;&gt;Contribute&lt;/h2&gt;
+
+&lt;p&gt;We will be setting forth the guidelines and structure for contributions&lt;/p&gt;
+
+&lt;h2 id=&#34;meet-our-community-1&#34;&gt;Meet our Community&lt;/h2&gt;
+
+&lt;h3 id=&#34;leadership-team&#34;&gt;Leadership Team&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://osmosis.foundation/img/portraits/resized/vijay.jpg&#34; alt=&#34;OsMoSiS project lead&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Vijay Ivaturi&lt;/h4&gt;
+        &lt;p&gt;
+        OsMoSiS project lead
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://osmosis.foundation/img/portraits/resized/kyle.jpg&#34; alt=&#34;OsMoSiS scientific lead&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Kyle Baron&lt;/h4&gt;
+        &lt;p&gt;
+        OsMoSiS scientific lead
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://osmosis.foundation/img/portraits/resized/devin.png&#34; alt=&#34;OsMoSiS technical lead&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Devin Pastoor&lt;/h4&gt;
+        &lt;p&gt;
+        OsMoSiS technical lead
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;scientific-advisors&#34;&gt;Scientific Advisors&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://osmosis.foundation/img/portraits/resized/mats.jpg&#34; alt=&#34;Uppsala University&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Mats Karlsson&lt;/h4&gt;
+        &lt;p&gt;
+        Uppsala University
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+&lt;/th&gt;
+&lt;th&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://osmosis.foundation/img/portraits/resized/marc.jpg&#34; alt=&#34;Metrum Institute&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Marc Gastonguay&lt;/h4&gt;
+        &lt;p&gt;
+        Metrum Institute
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+&lt;/th&gt;
+&lt;th&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://osmosis.foundation/img/portraits/resized/andy.jpg&#34; alt=&#34;Uppsala University&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Andy Hooker&lt;/h4&gt;
+        &lt;p&gt;
+        Uppsala University
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OsMoSiS Team</title>
+      <link>https://osmosis.foundation/post/osmosis_team/</link>
+      <pubDate>Mon, 21 Nov 2016 12:00:00 +0000</pubDate>
+      
+      <guid>https://osmosis.foundation/post/osmosis_team/</guid>
+      <description>
+
+&lt;h2 id=&#34;meet-our-community&#34;&gt;Meet our Community&lt;/h2&gt;
+
+&lt;p&gt;OsMoSiS is entirely a community driven effort. The project originally came together from conversations between like-minded researchers and continues to expand as more people contribute tools, expertise, and research ideas. We welcome a global community of researchers, students, software developers, and various others working towards improving the world of quantitative clinical science. We welcome you to join us and help improve tools and practices available to researchers.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-to-join-our-community&#34;&gt;How to join our community&lt;/h2&gt;
+
+&lt;p&gt;If you have any project that you would like to be involved with, the best place for you to start with is the discussion board(&lt;a href=&#34;http://discuss.go-isop.org/&#34;&gt;http://discuss.go-isop.org/&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h2 id=&#34;contribute&#34;&gt;Contribute&lt;/h2&gt;
+
+&lt;p&gt;We will be setting forth the guidelines and structure for contributions&lt;/p&gt;
+
+&lt;h2 id=&#34;meet-our-community-1&#34;&gt;Meet our Community&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;img src=&#34;https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAY1AAAAJGU3N2FjNjI0LWZlYTgtNGQ4NC04MWM3LWEyYjExZWNlN2UzNw.jpg&#34; alt=&#34;potrait&#34; /&gt;&lt;/th&gt;
+&lt;th&gt;&lt;img src=&#34;https://avatars3.githubusercontent.com/u/3196313?v=3&amp;amp;s=400&#34; alt=&#34;potrait&#34; /&gt;&lt;/th&gt;
+&lt;th&gt;&lt;img src=&#34;https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAVIAAAAJDk4N2E0ZjU3LTBiM2QtNGQ2NS05ZmRiLTJiOTI5YTMyNGFlZg.jpg&#34; alt=&#34;potrait&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://lh3.googleusercontent.com/-cJFNzjlFoFA/AAAAAAAAAAI/AAAAAAAABNE/GYPA_2svmPg/s360-c-k-no/photo.jpg&#34; alt=&#34;potrait&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://avatars2.githubusercontent.com/u/1605707?v=3&amp;amp;s=400&#34; alt=&#34;potrait&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://avatars1.githubusercontent.com/u/243793?v=3&amp;amp;s=400&#34; alt=&#34;potrait&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAUlAAAAJDhiOTcyOGZlLTFjZWUtNGQzNS1hYjBmLWUwMGY5M2JlNzU3MQ.jpg&#34; alt=&#34;potrait&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAOaAAAAJGVmM2QyM2EyLTM1ZjktNDU2Yy04ZTBkLWIxODE1NjIxZmI5Mw.jpg&#34; alt=&#34;potrait&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;http://www.ideal.rwth-aachen.de/wp-content/uploads/2013/09/Mats_1-495x400.jpg&#34; alt=&#34;potrait&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/5/000/209/18f/0d28f3b.jpg&#34; alt=&#34;potrait&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAicAAAAJGZiNGY3YWNiLWRkNzYtNDZiMi04ZjRlLWZlMzhkY2JhZjI0MQ.jpg&#34; alt=&#34;potrait&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAY1AAAAJGU3N2FjNjI0LWZlYTgtNGQ4NC04MWM3LWEyYjExZWNlN2UzNw.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Vijay Ivaturi&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DDMore Model Repository</title>
+      <link>https://osmosis.foundation/blog/2016/11/20/ddmore_repo/</link>
+      <pubDate>Sun, 20 Nov 2016 12:00:00 +0000</pubDate>
+      
+      <guid>https://osmosis.foundation/blog/2016/11/20/ddmore_repo/</guid>
+      <description>
+
+&lt;h2 id=&#34;access-to-curated-and-shared-knowledge&#34;&gt;Access to curated and shared knowledge&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;this post has been directly take from the ddmore model repository website&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;An open, publicly available, free-to-use Model Repository that is indexed, fully searchable, and supported by peer review.&lt;/p&gt;
+
+&lt;p&gt;The Model Repository enables display and search of key model features and elements via a structured and curated annotation system. The flexibility and power of the Model Repository is showcased by a range of &amp;ldquo;proof of concept&amp;rdquo; drug and disease models consisting of published pharmacokinetic (PK), pharmacodynamic (PD), PK-PD, physiologically-based PK (PBPK), statistical and systems biology models.&lt;/p&gt;
+
+&lt;p&gt;The DDMoRe Model Repository is built using the Pharmacometrics Markup Language (PharmML), and supports the Model Description Language (MDL). Together with DDMoRe&amp;rsquo;s unique Interoperability Framework, these tools facilitate the collaborative development of computational models. Users can submit their models in a number of formats, but to benefit from all of the model repository&amp;rsquo;s features you will need to use the PharmML representation.&lt;/p&gt;
+
+&lt;p&gt;The DDMoRe consortium has developed new state-of-the art models in key therapeutic areas including diabetes,oncology, CNS and infectious disease. These models are encoded in PharmML and MDL to facilitate seamless exchange between modelling languages, existing and new tools.&lt;/p&gt;
+
+&lt;p&gt;The Model Repository will be made available as a public instance, but will be portable and developed under existing GPL-compatible licenses, allowing integration of private or customized versions within organizations.
+Tutorials to support use and integration of the DDMoRe products is available.
+A private version of the Model Repository can be installed using the installation guide for the Model Repository and Fuseki Server available as downloads at the end of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DDMore Model Repository</title>
+      <link>https://osmosis.foundation/post/ddmore_repo/</link>
+      <pubDate>Sun, 20 Nov 2016 12:00:00 +0000</pubDate>
+      
+      <guid>https://osmosis.foundation/post/ddmore_repo/</guid>
+      <description>
+
+&lt;h2 id=&#34;access-to-curated-and-shared-knowledge&#34;&gt;Access to curated and shared knowledge&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;this post has been directly take from the ddmore model repository website&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;An open, publicly available, free-to-use Model Repository that is indexed, fully searchable, and supported by peer review.&lt;/p&gt;
+
+&lt;p&gt;The Model Repository enables display and search of key model features and elements via a structured and curated annotation system. The flexibility and power of the Model Repository is showcased by a range of &amp;ldquo;proof of concept&amp;rdquo; drug and disease models consisting of published pharmacokinetic (PK), pharmacodynamic (PD), PK-PD, physiologically-based PK (PBPK), statistical and systems biology models.&lt;/p&gt;
+
+&lt;p&gt;The DDMoRe Model Repository is built using the Pharmacometrics Markup Language (PharmML), and supports the Model Description Language (MDL). Together with DDMoRe&amp;rsquo;s unique Interoperability Framework, these tools facilitate the collaborative development of computational models. Users can submit their models in a number of formats, but to benefit from all of the model repository&amp;rsquo;s features you will need to use the PharmML representation.&lt;/p&gt;
+
+&lt;p&gt;The DDMoRe consortium has developed new state-of-the art models in key therapeutic areas including diabetes,oncology, CNS and infectious disease. These models are encoded in PharmML and MDL to facilitate seamless exchange between modelling languages, existing and new tools.&lt;/p&gt;
+
+&lt;p&gt;The Model Repository will be made available as a public instance, but will be portable and developed under existing GPL-compatible licenses, allowing integration of private or customized versions within organizations.
+Tutorials to support use and integration of the DDMoRe products is available.
+A private version of the Model Repository can be installed using the installation guide for the Model Repository and Fuseki Server available as downloads at the end of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OsMoSiS Team</title>
+      <link>https://osmosis.foundation/community/osmosis_team/</link>
+      <pubDate>Sun, 20 Nov 2016 12:00:00 +0000</pubDate>
+      
+      <guid>https://osmosis.foundation/community/osmosis_team/</guid>
+      <description>
+
+&lt;h2 id=&#34;meet-our-community&#34;&gt;Meet our Community&lt;/h2&gt;
+
+&lt;p&gt;OsMoSiS is entirely a community driven effort. The project originally came together from conversations between like-minded researchers and continues to expand as more people contribute tools, expertise, and research ideas. We welcome a global community of researchers, students, software developers, and various others working towards improving the world of quantitative clinical science. We welcome you to join us and help improve tools and practices available to researchers.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-to-join-our-community&#34;&gt;How to join our community&lt;/h2&gt;
+
+&lt;p&gt;If you have any project that you would like to be involved with, the best place for you to start with is the discussion board(&lt;a href=&#34;http://discuss.go-isop.org/&#34;&gt;http://discuss.go-isop.org/&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h2 id=&#34;contribute&#34;&gt;Contribute&lt;/h2&gt;
+
+&lt;p&gt;We will be setting forth the guidelines and structure for contributions&lt;/p&gt;
+
+&lt;h2 id=&#34;meet-our-community-1&#34;&gt;Meet our Community&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Soure Tools in Pharmacometrics</title>
+      <link>https://osmosis.foundation/blog/2016/10/28/opensourceinphmx/</link>
+      <pubDate>Fri, 28 Oct 2016 11:00:00 +0000</pubDate>
+      
+      <guid>https://osmosis.foundation/blog/2016/10/28/opensourceinphmx/</guid>
+      <description>&lt;p&gt;The 7&lt;sup&gt;th&lt;/sup&gt; American Confernce in Pharmacometrics was held in Seattle, Washington from October 23 - 27, 2016. On the last day of the conference, there was a session named - &lt;strong&gt;&lt;em&gt;&amp;ldquo;An Overview of Consortia and Open-Source Approaches to Quantitative Drug Development Tools&amp;rdquo;&lt;/em&gt;&lt;/strong&gt;. This was the first time in my short experience in this field that there has been a discussion on the concept of &amp;ldquo;sharing&amp;rdquo; in pharmacometrics. It was bold, new and exciting to see initiatives being taken in our community towards being more collaborative.&lt;/p&gt;
+
+&lt;p&gt;You can find the list of speakers and topic session in the conference program page &lt;a href=&#34;http://www.acop7.org/conference-program&#34;&gt;here&lt;/a&gt;. In the spirit of the topic, all the speakers decided to share their presentations and collaboratively work in the &lt;a href=&#34;https://osf.io/csjf7/&#34;&gt;Open Science Framework&lt;/a&gt; (you need to sign up to the website to use it). All presentations made there will be posted here eventually.&lt;/p&gt;
+
+&lt;p&gt;I would like to summarize to the best of my ability, the overall message of that session.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;There was a clear understanding that there needs to be a shift in the culture of doing science in pharmacometrics to be more open and collaborative.&lt;/li&gt;
+&lt;li&gt;There was renewed enthusiasm to work on grander challenges in a consortia setting. Many different consortia were introduced and some of them are listed here:
+
+&lt;ul&gt;
+&lt;li&gt;C-Path Initiative - develops models in consortia for Alzheimers, TB and Polycystic Kidney Disease&lt;/li&gt;
+&lt;li&gt;Quantitative Systems Pharmacology (QSP) consortia&lt;/li&gt;
+&lt;li&gt;The Right Dose Consortia&lt;/li&gt;
+&lt;li&gt;NeuroD Community of Practice under the C-Path initiatives&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;There was discussion on the opportunities that we as a community have to influence precision dosing in the clinic and not just to influence drug development projects.&lt;/li&gt;
+&lt;li&gt;A common interest towards crowdsourced incentive based solutions to
+
+&lt;ul&gt;
+&lt;li&gt;Convert published literature models into R based models&lt;/li&gt;
+&lt;li&gt;Submit these R based models to the DDMore Model Repository&lt;/li&gt;
+&lt;li&gt;Develop a crowdsourced meta analysis database that allows micro-contributions from researchers all around the world&lt;/li&gt;
+&lt;li&gt;Develop an incentive platform to solve grand challenges in the quantitative clinical drug development and clinical therapeutics&lt;/li&gt;
+&lt;li&gt;Develop training material that are freely accessible to the community&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;A new R-based non-linear mixed effect modeling engine called &lt;strong&gt;&lt;em&gt;&lt;a href=&#34;https://github.com/nlmixrdevelopment/nlmixr&#34;&gt;nlmixr&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Drive towards pre-print publications using the [bioarxiv]() platform&lt;/li&gt;
+&lt;li&gt;The most important aspect - there was huge shout out to the champions and their open source tools that are already available in pharmacometrics. The banner image is a timeline and list of the many open source tools available in pharmacometrics as of today.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;There was a lot of enthusiasm at the end of the session about the prospects of an open and collaborative community in pharmacometrics. One of the ideas that was a result of this session is the &lt;strong&gt;&lt;em&gt;Osmosis Project&lt;/em&gt;&lt;/strong&gt; that stands for Open Source Modeling and Simulation Solutions, a term coined by Marc Gastonguay of &lt;a href=&#34;http://metrumrg.com/index.html&#34;&gt;Metrum Institute&lt;/a&gt;. The project will work closely with the excellent efforts of the &lt;strong&gt;&lt;em&gt;&lt;a href=&#34;http://www.ddmore.eu/&#34;&gt;DDMore&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt; consortium and its various aspects. More details will follow up in subsequent posts. Keep an eye out!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Soure Tools in Pharmacometrics</title>
+      <link>https://osmosis.foundation/post/opensourceinphmx/</link>
+      <pubDate>Fri, 28 Oct 2016 11:00:00 +0000</pubDate>
+      
+      <guid>https://osmosis.foundation/post/opensourceinphmx/</guid>
+      <description>&lt;p&gt;The 7&lt;sup&gt;th&lt;/sup&gt; American Confernce in Pharmacometrics was held in Seattle, Washington from October 23 - 27, 2016. On the last day of the conference, there was a session named - &lt;strong&gt;&lt;em&gt;&amp;ldquo;An Overview of Consortia and Open-Source Approaches to Quantitative Drug Development Tools&amp;rdquo;&lt;/em&gt;&lt;/strong&gt;. This was the first time in my short experience in this field that there has been a discussion on the concept of &amp;ldquo;sharing&amp;rdquo; in pharmacometrics. It was bold, new and exciting to see initiatives being taken in our community towards being more collaborative.&lt;/p&gt;
+
+&lt;p&gt;You can find the list of speakers and topic session in the conference program page &lt;a href=&#34;http://www.acop7.org/conference-program&#34;&gt;here&lt;/a&gt;. In the spirit of the topic, all the speakers decided to share their presentations and collaboratively work in the &lt;a href=&#34;https://osf.io/csjf7/&#34;&gt;Open Science Framework&lt;/a&gt; (you need to sign up to the website to use it). All presentations made there will be posted here eventually.&lt;/p&gt;
+
+&lt;p&gt;I would like to summarize to the best of my ability, the overall message of that session.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;There was a clear understanding that there needs to be a shift in the culture of doing science in pharmacometrics to be more open and collaborative.&lt;/li&gt;
+&lt;li&gt;There was renewed enthusiasm to work on grander challenges in a consortia setting. Many different consortia were introduced and some of them are listed here:
+
+&lt;ul&gt;
+&lt;li&gt;C-Path Initiative - develops models in consortia for Alzheimers, TB and Polycystic Kidney Disease&lt;/li&gt;
+&lt;li&gt;Quantitative Systems Pharmacology (QSP) consortia&lt;/li&gt;
+&lt;li&gt;The Right Dose Consortia&lt;/li&gt;
+&lt;li&gt;NeuroD Community of Practice under the C-Path initiatives&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;There was discussion on the opportunities that we as a community have to influence precision dosing in the clinic and not just to influence drug development projects.&lt;/li&gt;
+&lt;li&gt;A common interest towards crowdsourced incentive based solutions to
+
+&lt;ul&gt;
+&lt;li&gt;Convert published literature models into R based models&lt;/li&gt;
+&lt;li&gt;Submit these R based models to the DDMore Model Repository&lt;/li&gt;
+&lt;li&gt;Develop a crowdsourced meta analysis database that allows micro-contributions from researchers all around the world&lt;/li&gt;
+&lt;li&gt;Develop an incentive platform to solve grand challenges in the quantitative clinical drug development and clinical therapeutics&lt;/li&gt;
+&lt;li&gt;Develop training material that are freely accessible to the community&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;A new R-based non-linear mixed effect modeling engine called &lt;strong&gt;&lt;em&gt;&lt;a href=&#34;https://github.com/nlmixrdevelopment/nlmixr&#34;&gt;nlmixr&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Drive towards pre-print publications using the [bioarxiv]() platform&lt;/li&gt;
+&lt;li&gt;The most important aspect - there was huge shout out to the champions and their open source tools that are already available in pharmacometrics. The banner image is a timeline and list of the many open source tools available in pharmacometrics as of today.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;There was a lot of enthusiasm at the end of the session about the prospects of an open and collaborative community in pharmacometrics. One of the ideas that was a result of this session is the &lt;strong&gt;&lt;em&gt;Osmosis Project&lt;/em&gt;&lt;/strong&gt; that stands for Open Source Modeling and Simulation Solutions, a term coined by Marc Gastonguay of &lt;a href=&#34;http://metrumrg.com/index.html&#34;&gt;Metrum Institute&lt;/a&gt;. The project will work closely with the excellent efforts of the &lt;strong&gt;&lt;em&gt;&lt;a href=&#34;http://www.ddmore.eu/&#34;&gt;DDMore&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt; consortium and its various aspects. More details will follow up in subsequent posts. Keep an eye out!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DDMore</title>
+      <link>https://osmosis.foundation/project/ddmore/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://osmosis.foundation/project/ddmore/</guid>
+      <description>&lt;p&gt;mrgsolve facilitates simulation in R from hierarchical, ordinary differential equation (ODE) based models typically employed in drug development. The modeler creates a model specification file consisting of R and C++ code that is parsed, compiled, and dynamically loaded into the R session. Input data are passed in and simulated data are returned as R objects, so disk access is never required during the simulation cycle after compiling.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>mrgsolve</title>
+      <link>https://osmosis.foundation/project/mrgsolve/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://osmosis.foundation/project/mrgsolve/</guid>
+      <description>&lt;p&gt;mrgsolve facilitates simulation in R from hierarchical, ordinary differential equation (ODE) based models typically employed in drug development. The modeler creates a model specification file consisting of R and C++ code that is parsed, compiled, and dynamically loaded into the R session. Input data are passed in and simulated data are returned as R objects, so disk access is never required during the simulation cycle after compiling.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>nlmixr</title>
+      <link>https://osmosis.foundation/project/nlmixr/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://osmosis.foundation/project/nlmixr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

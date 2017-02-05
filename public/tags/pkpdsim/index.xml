@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pkpdsim on OsMoSis</title>
+    <link>https://osmosis.foundation/tags/pkpdsim/index.xml</link>
+    <description>Recent content in Pkpdsim on OsMoSis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2017 - 2019, OsMoSis Foundation; all rights reserved.</copyright>
+    <atom:link href="https://osmosis.foundation/tags/pkpdsim/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>pkpdsim</title>
+      <link>https://osmosis.foundation/project/pkpdsim/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://osmosis.foundation/project/pkpdsim/</guid>
+      <description>&lt;p&gt;PKPDsim is an R package for numerical integration of ODE systems, in particular pharmacokinetic-pharmacodynamic (PK-PD) mixed-effects models.&lt;/p&gt;
+
+&lt;p&gt;In pharmacometrics, models are often defined as systems of ordinary differential equations (ODEs). Although solving ODEs numerically in R is relatively straightforward using e.g. the deSolve library, the implementation of e.g. infusions and complex dosing regimens as well as the incorporation of random effects is cumbersome. Outside of R, a tool like Berkeley Madonna provides excellent interactivity features and is fast, but is much inferior to R regarding plotting functionality, cumbersome regarding implementation of dose regimens and multi-level variability, and also not open source.&lt;/p&gt;
+
+&lt;p&gt;In short, the issues above were the impetus for developing the PKPDsim library in R. For fast numerical integration of the ODEs, the module uses the Boost C++ library under the hood.&lt;/p&gt;
+
+&lt;p&gt;PKPDsim is released under the MIT open source license.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

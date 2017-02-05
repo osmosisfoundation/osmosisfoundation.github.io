@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mrgsolve on OsMoSis</title>
+    <link>https://osmosis.foundation/tags/mrgsolve/index.xml</link>
+    <description>Recent content in Mrgsolve on OsMoSis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2017 - 2019, OsMoSis Foundation; all rights reserved.</copyright>
+    <atom:link href="https://osmosis.foundation/tags/mrgsolve/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>mrgsolve</title>
+      <link>https://osmosis.foundation/project/mrgsolve/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://osmosis.foundation/project/mrgsolve/</guid>
+      <description>&lt;p&gt;mrgsolve facilitates simulation in R from hierarchical, ordinary differential equation (ODE) based models typically employed in drug development. The modeler creates a model specification file consisting of R and C++ code that is parsed, compiled, and dynamically loaded into the R session. Input data are passed in and simulated data are returned as R objects, so disk access is never required during the simulation cycle after compiling.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

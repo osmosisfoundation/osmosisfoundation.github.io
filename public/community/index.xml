@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Communities on OsMoSis</title>
+    <link>https://osmosis.foundation/community/index.xml</link>
+    <description>Recent content in Communities on OsMoSis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2017 - 2019, OsMoSis Foundation; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 20 Nov 2016 12:00:00 +0000</lastBuildDate>
+    <atom:link href="https://osmosis.foundation/community/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OsMoSiS Team</title>
+      <link>https://osmosis.foundation/community/osmosis_team/</link>
+      <pubDate>Sun, 20 Nov 2016 12:00:00 +0000</pubDate>
+      
+      <guid>https://osmosis.foundation/community/osmosis_team/</guid>
+      <description>
+
+&lt;h2 id=&#34;meet-our-community&#34;&gt;Meet our Community&lt;/h2&gt;
+
+&lt;p&gt;OsMoSiS is entirely a community driven effort. The project originally came together from conversations between like-minded researchers and continues to expand as more people contribute tools, expertise, and research ideas. We welcome a global community of researchers, students, software developers, and various others working towards improving the world of quantitative clinical science. We welcome you to join us and help improve tools and practices available to researchers.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-to-join-our-community&#34;&gt;How to join our community&lt;/h2&gt;
+
+&lt;p&gt;If you have any project that you would like to be involved with, the best place for you to start with is the discussion board(&lt;a href=&#34;http://discuss.go-isop.org/&#34;&gt;http://discuss.go-isop.org/&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h2 id=&#34;contribute&#34;&gt;Contribute&lt;/h2&gt;
+
+&lt;p&gt;We will be setting forth the guidelines and structure for contributions&lt;/p&gt;
+
+&lt;h2 id=&#34;meet-our-community-1&#34;&gt;Meet our Community&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
