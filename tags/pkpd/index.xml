@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pkpd on OsMoSis</title>
-    <link>https://osmosis.foundation/tags/pkpd/index.xml</link>
+    <link>https://osmosisfoundation.github.io/tags/pkpd/index.xml</link>
     <description>Recent content in Pkpd on OsMoSis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2019, OsMoSis Foundation; all rights reserved.</copyright>
-    <atom:link href="https://osmosis.foundation/tags/pkpd/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osmosisfoundation.github.io/tags/pkpd/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>DDMore</title>
-      <link>https://osmosis.foundation/project/ddmore/</link>
+      <link>https://osmosisfoundation.github.io/project/ddmore/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://osmosis.foundation/project/ddmore/</guid>
+      <guid>https://osmosisfoundation.github.io/project/ddmore/</guid>
       <description>&lt;p&gt;mrgsolve facilitates simulation in R from hierarchical, ordinary differential equation (ODE) based models typically employed in drug development. The modeler creates a model specification file consisting of R and C++ code that is parsed, compiled, and dynamically loaded into the R session. Input data are passed in and simulated data are returned as R objects, so disk access is never required during the simulation cycle after compiling.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>mrgsolve</title>
-      <link>https://osmosis.foundation/project/mrgsolve/</link>
+      <link>https://osmosisfoundation.github.io/project/mrgsolve/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://osmosis.foundation/project/mrgsolve/</guid>
+      <guid>https://osmosisfoundation.github.io/project/mrgsolve/</guid>
       <description>&lt;p&gt;mrgsolve facilitates simulation in R from hierarchical, ordinary differential equation (ODE) based models typically employed in drug development. The modeler creates a model specification file consisting of R and C++ code that is parsed, compiled, and dynamically loaded into the R session. Input data are passed in and simulated data are returned as R objects, so disk access is never required during the simulation cycle after compiling.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>nlmixr</title>
-      <link>https://osmosis.foundation/project/nlmixr/</link>
+      <link>https://osmosisfoundation.github.io/project/nlmixr/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://osmosis.foundation/project/nlmixr/</guid>
+      <guid>https://osmosisfoundation.github.io/project/nlmixr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pkpdsim</title>
-      <link>https://osmosis.foundation/project/pkpdsim/</link>
+      <link>https://osmosisfoundation.github.io/project/pkpdsim/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://osmosis.foundation/project/pkpdsim/</guid>
+      <guid>https://osmosisfoundation.github.io/project/pkpdsim/</guid>
       <description>&lt;p&gt;PKPDsim is an R package for numerical integration of ODE systems, in particular pharmacokinetic-pharmacodynamic (PK-PD) mixed-effects models.&lt;/p&gt;
 
 &lt;p&gt;In pharmacometrics, models are often defined as systems of ordinary differential equations (ODEs). Although solving ODEs numerically in R is relatively straightforward using e.g. the deSolve library, the implementation of e.g. infusions and complex dosing regimens as well as the incorporation of random effects is cumbersome. Outside of R, a tool like Berkeley Madonna provides excellent interactivity features and is fast, but is much inferior to R regarding plotting functionality, cumbersome regarding implementation of dose regimens and multi-level variability, and also not open source.&lt;/p&gt;

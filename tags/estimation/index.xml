@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Estimation on OsMoSis</title>
-    <link>https://osmosis.foundation/tags/estimation/index.xml</link>
+    <link>https://osmosisfoundation.github.io/tags/estimation/index.xml</link>
     <description>Recent content in Estimation on OsMoSis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2019, OsMoSis Foundation; all rights reserved.</copyright>
-    <atom:link href="https://osmosis.foundation/tags/estimation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osmosisfoundation.github.io/tags/estimation/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>nlmixr</title>
-      <link>https://osmosis.foundation/project/nlmixr/</link>
+      <link>https://osmosisfoundation.github.io/project/nlmixr/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://osmosis.foundation/project/nlmixr/</guid>
+      <guid>https://osmosisfoundation.github.io/project/nlmixr/</guid>
       <description></description>
     </item>
     

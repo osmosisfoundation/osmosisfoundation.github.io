@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on OsMoSis</title>
-    <link>https://osmosis.foundation/home/index.xml</link>
+    <link>https://osmosisfoundation.github.io/home/index.xml</link>
     <description>Recent content in Homes on OsMoSis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2019, OsMoSis Foundation; all rights reserved.</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://osmosis.foundation/home/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osmosisfoundation.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>https://osmosis.foundation/home/about/</link>
+      <link>https://osmosisfoundation.github.io/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://osmosis.foundation/home/about/</guid>
+      <guid>https://osmosisfoundation.github.io/home/about/</guid>
       <description>
 
 &lt;h1 id=&#34;building-an-open-and-collaborative-society&#34;&gt;Building an Open and Collaborative Society&lt;/h1&gt;
@@ -30,47 +30,47 @@
     
     <item>
       <title>Blog</title>
-      <link>https://osmosis.foundation/home/posts/</link>
+      <link>https://osmosisfoundation.github.io/home/posts/</link>
       <pubDate>Sun, 20 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://osmosis.foundation/home/posts/</guid>
+      <guid>https://osmosisfoundation.github.io/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://osmosis.foundation/home/projects/</link>
+      <link>https://osmosisfoundation.github.io/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://osmosis.foundation/home/projects/</guid>
+      <guid>https://osmosisfoundation.github.io/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Community</title>
-      <link>https://osmosis.foundation/home/community/</link>
+      <link>https://osmosisfoundation.github.io/home/community/</link>
       <pubDate>Mon, 21 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://osmosis.foundation/home/community/</guid>
+      <guid>https://osmosisfoundation.github.io/home/community/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discuss</title>
-      <link>https://osmosis.foundation/home/discuss/</link>
+      <link>https://osmosisfoundation.github.io/home/discuss/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://osmosis.foundation/home/discuss/</guid>
+      <guid>https://osmosisfoundation.github.io/home/discuss/</guid>
       <description>&lt;p&gt;Official &lt;a href=&#34;http://discuss.go-isop.org/&#34;&gt;discussion forum&lt;/a&gt; of the OsMoSiS Project&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://osmosis.foundation/home/contact/</link>
+      <link>https://osmosisfoundation.github.io/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://osmosis.foundation/home/contact/</guid>
+      <guid>https://osmosisfoundation.github.io/home/contact/</guid>
       <description></description>
     </item>
     

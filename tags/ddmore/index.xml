@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ddmore on OsMoSis</title>
-    <link>https://osmosis.foundation/tags/ddmore/index.xml</link>
+    <link>https://osmosisfoundation.github.io/tags/ddmore/index.xml</link>
     <description>Recent content in Ddmore on OsMoSis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2019, OsMoSis Foundation; all rights reserved.</copyright>
-    <atom:link href="https://osmosis.foundation/tags/ddmore/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osmosisfoundation.github.io/tags/ddmore/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>DDMore Model Repository</title>
-      <link>https://osmosis.foundation/blog/2016/11/20/ddmore_repo/</link>
+      <link>https://osmosisfoundation.github.io/blog/2016/11/20/ddmore_repo/</link>
       <pubDate>Sun, 20 Nov 2016 12:00:00 +0000</pubDate>
       
-      <guid>https://osmosis.foundation/blog/2016/11/20/ddmore_repo/</guid>
+      <guid>https://osmosisfoundation.github.io/blog/2016/11/20/ddmore_repo/</guid>
       <description>
 
 &lt;h2 id=&#34;access-to-curated-and-shared-knowledge&#34;&gt;Access to curated and shared knowledge&lt;/h2&gt;
@@ -37,10 +37,10 @@ A private version of the Model Repository can be installed using the installatio
     
     <item>
       <title>DDMore Model Repository</title>
-      <link>https://osmosis.foundation/post/ddmore_repo/</link>
+      <link>https://osmosisfoundation.github.io/post/ddmore_repo/</link>
       <pubDate>Sun, 20 Nov 2016 12:00:00 +0000</pubDate>
       
-      <guid>https://osmosis.foundation/post/ddmore_repo/</guid>
+      <guid>https://osmosisfoundation.github.io/post/ddmore_repo/</guid>
       <description>
 
 &lt;h2 id=&#34;access-to-curated-and-shared-knowledge&#34;&gt;Access to curated and shared knowledge&lt;/h2&gt;
@@ -63,10 +63,10 @@ A private version of the Model Repository can be installed using the installatio
     
     <item>
       <title>DDMore</title>
-      <link>https://osmosis.foundation/project/ddmore/</link>
+      <link>https://osmosisfoundation.github.io/project/ddmore/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://osmosis.foundation/project/ddmore/</guid>
+      <guid>https://osmosisfoundation.github.io/project/ddmore/</guid>
       <description>&lt;p&gt;mrgsolve facilitates simulation in R from hierarchical, ordinary differential equation (ODE) based models typically employed in drug development. The modeler creates a model specification file consisting of R and C++ code that is parsed, compiled, and dynamically loaded into the R session. Input data are passed in and simulated data are returned as R objects, so disk access is never required during the simulation cycle after compiling.&lt;/p&gt;
 </description>
     </item>

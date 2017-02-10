@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Opensource on OsMoSis</title>
-    <link>https://osmosis.foundation/tags/opensource/index.xml</link>
+    <link>https://osmosisfoundation.github.io/tags/opensource/index.xml</link>
     <description>Recent content in Opensource on OsMoSis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2019, OsMoSis Foundation; all rights reserved.</copyright>
-    <atom:link href="https://osmosis.foundation/tags/opensource/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osmosisfoundation.github.io/tags/opensource/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Open Soure Tools in Pharmacometrics</title>
-      <link>https://osmosis.foundation/blog/2016/10/28/opensourceinphmx/</link>
+      <link>https://osmosisfoundation.github.io/blog/2016/10/28/opensourceinphmx/</link>
       <pubDate>Fri, 28 Oct 2016 11:00:00 +0000</pubDate>
       
-      <guid>https://osmosis.foundation/blog/2016/10/28/opensourceinphmx/</guid>
+      <guid>https://osmosisfoundation.github.io/blog/2016/10/28/opensourceinphmx/</guid>
       <description>&lt;p&gt;The 7&lt;sup&gt;th&lt;/sup&gt; American Confernce in Pharmacometrics was held in Seattle, Washington from October 23 - 27, 2016. On the last day of the conference, there was a session named - &lt;strong&gt;&lt;em&gt;&amp;ldquo;An Overview of Consortia and Open-Source Approaches to Quantitative Drug Development Tools&amp;rdquo;&lt;/em&gt;&lt;/strong&gt;. This was the first time in my short experience in this field that there has been a discussion on the concept of &amp;ldquo;sharing&amp;rdquo; in pharmacometrics. It was bold, new and exciting to see initiatives being taken in our community towards being more collaborative.&lt;/p&gt;
 
 &lt;p&gt;You can find the list of speakers and topic session in the conference program page &lt;a href=&#34;http://www.acop7.org/conference-program&#34;&gt;here&lt;/a&gt;. In the spirit of the topic, all the speakers decided to share their presentations and collaboratively work in the &lt;a href=&#34;https://osf.io/csjf7/&#34;&gt;Open Science Framework&lt;/a&gt; (you need to sign up to the website to use it). All presentations made there will be posted here eventually.&lt;/p&gt;
@@ -52,10 +52,10 @@
     
     <item>
       <title>Open Soure Tools in Pharmacometrics</title>
-      <link>https://osmosis.foundation/post/opensourceinphmx/</link>
+      <link>https://osmosisfoundation.github.io/post/opensourceinphmx/</link>
       <pubDate>Fri, 28 Oct 2016 11:00:00 +0000</pubDate>
       
-      <guid>https://osmosis.foundation/post/opensourceinphmx/</guid>
+      <guid>https://osmosisfoundation.github.io/post/opensourceinphmx/</guid>
       <description>&lt;p&gt;The 7&lt;sup&gt;th&lt;/sup&gt; American Confernce in Pharmacometrics was held in Seattle, Washington from October 23 - 27, 2016. On the last day of the conference, there was a session named - &lt;strong&gt;&lt;em&gt;&amp;ldquo;An Overview of Consortia and Open-Source Approaches to Quantitative Drug Development Tools&amp;rdquo;&lt;/em&gt;&lt;/strong&gt;. This was the first time in my short experience in this field that there has been a discussion on the concept of &amp;ldquo;sharing&amp;rdquo; in pharmacometrics. It was bold, new and exciting to see initiatives being taken in our community towards being more collaborative.&lt;/p&gt;
 
 &lt;p&gt;You can find the list of speakers and topic session in the conference program page &lt;a href=&#34;http://www.acop7.org/conference-program&#34;&gt;here&lt;/a&gt;. In the spirit of the topic, all the speakers decided to share their presentations and collaboratively work in the &lt;a href=&#34;https://osf.io/csjf7/&#34;&gt;Open Science Framework&lt;/a&gt; (you need to sign up to the website to use it). All presentations made there will be posted here eventually.&lt;/p&gt;
