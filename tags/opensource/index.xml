@@ -10,7 +10,28 @@
     <atom:link href="https://osmosisfoundation.github.io/tags/opensource/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Open Soure Tools in Pharmacometrics</title>
+      <title>The Toolbox - A dockerized pharmacometrics system</title>
+      <link>https://osmosisfoundation.github.io/blog/2017/02/11/pmx-docker/</link>
+      <pubDate>Sat, 11 Feb 2017 11:00:00 +0000</pubDate>
+      
+      <guid>https://osmosisfoundation.github.io/blog/2017/02/11/pmx-docker/</guid>
+      <description>&lt;p&gt;&lt;em&gt;pmx-docker&lt;/em&gt; is a repository of docker containers designed to allow easy deployment of software tools for quantitative modeling and simulation activities. In the first release phase, four essential M&amp;amp;S related software are being deployed -&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;R with Rstudio server&lt;/li&gt;
+&lt;li&gt;NONMEM&lt;/li&gt;
+&lt;li&gt;Perl Speaks NONMEM (PsN)&lt;/li&gt;
+&lt;li&gt;Piranajs&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The project is currently in a testing phase and the product will be released to the community by March 1, 2017.&lt;/p&gt;
+
+&lt;p&gt;This post will be updated closer to the release date.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Source Tools in Pharmacometrics</title>
       <link>https://osmosisfoundation.github.io/blog/2016/10/28/opensourceinphmx/</link>
       <pubDate>Fri, 28 Oct 2016 11:00:00 +0000</pubDate>
       
@@ -42,7 +63,7 @@
 &lt;li&gt;Develop training material that are freely accessible to the community&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;A new R-based non-linear mixed effect modeling engine called &lt;strong&gt;&lt;em&gt;&lt;a href=&#34;https://github.com/nlmixrdevelopment/nlmixr&#34;&gt;nlmixr&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Drive towards pre-print publications using the [bioarxiv]() platform&lt;/li&gt;
+&lt;li&gt;Drive towards pre-print publications using the &lt;a href=&#34;http://biorxiv.org/&#34;&gt;bioarxiv&lt;/a&gt; platform&lt;/li&gt;
 &lt;li&gt;The most important aspect - there was huge shout out to the champions and their open source tools that are already available in pharmacometrics. The banner image is a timeline and list of the many open source tools available in pharmacometrics as of today.&lt;/li&gt;
 &lt;/ol&gt;
 
